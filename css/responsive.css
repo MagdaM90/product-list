@@ -1,0 +1,11 @@
+@media all and (max-width: 992px){
+    .gallery .products{
+        bottom: 0;
+        width: 40%;
+    }
+}
+@media all and (max-width: 480px){
+    .gallery .products{
+        width: 90%;
+    }
+}
